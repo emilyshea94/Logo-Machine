@@ -16,17 +16,15 @@ When shape color is chosen, a logo.svg file is generated with code for the logo 
 
 3. Navigate to the project directory:
    ```bash
-   cd Logo-Machine
+   "cd Logo-Machine"
 
 3.Install dependencies:
 bash
-npm install
+"npm install"
 
 4. Run the Application
 ```bash
-node index.js
-
-
+"node index.js"
 
 
 # Dependencies

@@ -1,0 +1,26 @@
+{
+  "name": "logo-machine",
+  "version": "1.0.0",
+  "description": "Generates a Logo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "logo",
+    "svg",
+    "node"
+  ],
+  "author": "Emily Shea",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  }
+}

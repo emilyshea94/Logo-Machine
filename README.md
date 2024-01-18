@@ -8,6 +8,7 @@ Another issue I encountered was my image logo not showing up in my browser so I 
 When the user types "node index.js" into the command line it then prompts the user to enter a shape (circle, triangle, square). 
 After the user chooses their shape it then prompts the user to pick a shape color.
 When shape color is chosen, a logo.svg file is generated with code for the logo with the color and shape the user picked.
+https://github.com/emilyshea94/Logo-Machine
 
 # Installation
 1. Clone the repository:

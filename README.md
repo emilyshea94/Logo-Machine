@@ -11,20 +11,19 @@ When shape color is chosen, a logo.svg file is generated with code for the logo 
 
 ##Installation
 1. Clone the repository:
-
-   ```bash
+   bash
    https://github.com/emilyshea94/Logo-Machine.git
 
-2. Navigate to the project directory:
-   ```bash
+3. Navigate to the project directory:
+   bash
 cd Logo-Machine
 
 3.Install dependencies:
-```bash
+bash
 npm install
 
 4. Run the Application
-```
+5. 
 node index.js
 
 ##Dependencies

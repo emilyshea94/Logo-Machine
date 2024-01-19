@@ -11,7 +11,8 @@ When shape color is chosen, a logo.svg file is generated with code for the logo 
 https://github.com/emilyshea94/Logo-Machine
 
 # Walkthrough Video
-[10 Challange Video.webm](https://github.com/emilyshea94/Logo-Machine/assets/144382382/b5db0aa0-689e-48c2-84c0-3bff8d57dbb5)
+[10 challange.webm](https://github.com/emilyshea94/Logo-Machine/assets/144382382/396507ee-db13-468c-8a8e-b2df69a83157)
+
 
 # Dependencies
 Inquirer: A collection of common interactive command-line user interfaces.

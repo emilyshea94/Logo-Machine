@@ -18,11 +18,6 @@ Inquirer: A collection of common interactive command-line user interfaces.
 Jest: A delightful JavaScript Testing Framework with a focus on simplicity.
 
 
-# Tests
-Run tests using Jest:
-```bash
-npm test
-
 
 # Installation
 1. Clone the repository:
@@ -39,7 +34,13 @@ bash
 
 4. Run the Application
 ```bash
-"node index.js" 
+"node index.js"
+
+# Tests
+Run tests using Jest:
+```bash
+npm test
+
 
 
 

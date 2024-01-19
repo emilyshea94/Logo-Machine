@@ -25,8 +25,7 @@ bash
 
 4. Run the Application
 ```bash
-"node index.js"
-
+"node index.js" 
 
 # Dependencies
 Inquirer: A collection of common interactive command-line user interfaces.
@@ -39,6 +38,7 @@ Run tests using Jest:
 npm test
 
 # Walkthrough Video
+[10 Challange Video.webm](https://github.com/emilyshea94/Logo-Machine/assets/144382382/b5db0aa0-689e-48c2-84c0-3bff8d57dbb5)
 
 
 # Credits 

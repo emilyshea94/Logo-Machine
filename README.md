@@ -29,10 +29,10 @@ Jest: A delightful JavaScript Testing Framework with a focus on simplicity.
    "cd Logo-Machine"
 
 3.Install dependencies:
-bash
+```bash
 "npm install"
 
-4. Run the Application
+4. Run the Application:
 ```bash
 "node index.js"
 

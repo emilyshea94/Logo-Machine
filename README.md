@@ -10,6 +10,16 @@ After the user chooses their shape it then prompts the user to pick a shape colo
 When shape color is chosen, a logo.svg file is generated with code for the logo with the color and shape the user picked.
 https://github.com/emilyshea94/Logo-Machine
 
+# Walkthrough Video
+[10 challange.webm](https://github.com/emilyshea94/Logo-Machine/assets/144382382/396507ee-db13-468c-8a8e-b2df69a83157)
+
+
+# Dependencies
+Inquirer: A collection of common interactive command-line user interfaces.
+Jest: A delightful JavaScript Testing Framework with a focus on simplicity.
+
+
+
 # Installation
 1. Clone the repository:
    ```bash
@@ -20,25 +30,19 @@ https://github.com/emilyshea94/Logo-Machine
    "cd Logo-Machine"
 
 3.Install dependencies:
-bash
+```bash
 "npm install"
 
-4. Run the Application
+4. Run the Application:
 ```bash
 "node index.js"
-
-
-# Dependencies
-Inquirer: A collection of common interactive command-line user interfaces.
-Jest: A delightful JavaScript Testing Framework with a focus on simplicity.
-
 
 # Tests
 Run tests using Jest:
 ```bash
 npm test
 
-# Walkthrough Video
+
 
 
 # Credits 

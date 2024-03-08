@@ -10,7 +10,7 @@ After the user chooses their shape it then prompts the user to pick a shape colo
 When shape color is chosen, a logo.svg file is generated with code for the logo with the color and shape the user picked.
 https://github.com/emilyshea94/Logo-Machine
 
-# Walk
+# Walk Through Video
 
 https://github.com/emilyshea94/Logo-Machine/assets/144382382/1a78c444-693a-463f-bbfc-a309a0edcd8d
 
